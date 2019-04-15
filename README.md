@@ -6,10 +6,11 @@ i8086-masm-assembly-experiment
 RoadMap
 ---
 
-<!-- | A | B |
-| :-: | :-: |
-| 机器学习<br/>[:soccer:](./part1) | 深度学习<br/>[:basketball:](./part2) | -->
+<!--  | A | B | C |
+| :-: | :-: | :-: |
+| [:soccer:](./docs/dosbox_masm.md) | [:soccer:](./part1) | [:basketball:](./part2) | -->
 
+- :soccer: [<font size=+1>DOSBox环境搭建</font>](./docs/dosbox_masm.md)
 - :soccer: [<font size=+1>汇编实验预备知识</font>](./part1)
 - :basketball: [<font size=+1>汇编语言实验</font>](./part2)
 
@@ -19,7 +20,8 @@ RoadMap
 - 我会不定期更新更新本教程中的文档以及代码
 - 如果出现一些问题，请务必告诉我，我会尽快调整和修改
 
-
 工具下载
 ---
 - DOSBox https://www.dosbox.com
+- MASM 链接: https://pan.baidu.com/s/1afyrOoK6grfdl6v1W4nsNg 提取码: a9y9 
+
