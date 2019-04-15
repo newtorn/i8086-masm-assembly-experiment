@@ -8,10 +8,10 @@ RoadMap
 
 <!-- | A | B |
 | :-: | :-: |
-| 机器学习<br/>[:soccer:](./A-Part1) | 深度学习<br/>[:basketball:](./B-Part2) | -->
+| 机器学习<br/>[:soccer:](./part1) | 深度学习<br/>[:basketball:](./part2) | -->
 
-- :soccer: [<font size=+1>汇编实验预备知识</font>](./A-Part1)
-- :basketball: [<font size=+1>汇编语言实验</font>](./B-Part2)
+- :soccer: [<font size=+1>汇编实验预备知识</font>](./part1)
+- :basketball: [<font size=+1>汇编语言实验</font>](./part2)
 
 分享你学习本教程中遇到的问题
 ---
